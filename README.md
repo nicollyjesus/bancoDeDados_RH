@@ -18,10 +18,10 @@ Este repositório contém um script SQL para criação e manipulação de uma ta
 3. Execute os comandos conforme necessário
 
 ## 👩‍💻 Autora
-Nome: Nicolly Jesus
-Linkedln: https://www.linkedin.com/in/nicolly-jesus/
-Curso: Java Full-Stack - Bloco 01 - Projeto Final
-Data: 2025
+- Nome: Nicolly Jesus
+- Linkedln: https://www.linkedin.com/in/nicolly-jesus/
+- Curso: Java Full-Stack - Bloco 01 - Projeto Final
+- Data: 2025
 
 
 # Este projeto foi criado para fins de estudo e prática de SQL.
